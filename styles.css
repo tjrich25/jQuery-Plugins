@@ -1,13 +1,14 @@
 body {
 	padding: 0;
 	margin: 0;
-	background-color: #104BA9;
+	background-color: #284A7E;
 }
 
 #main {
 	width: 90%;
 	margin: 25% auto;
-	border: 1px #000 solid;
+	border: 1px #FF8D40 solid;
+	background-color: #FFE373;
 }
 
 #main h1 {
