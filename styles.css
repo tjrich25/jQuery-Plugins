@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+@import url('https://fonts.googleapis.com/css?family=Oregano');
+@import url('https://fonts.googleapis.com/css?family=Suwannaphum');
+@import url('https://fonts.googleapis.com/css?family=Codystar');
+@import url('https://fonts.googleapis.com/css?family=Playball');
+
 body {
 	padding: 0;
 	margin: 0;
@@ -5,7 +11,7 @@ body {
 }
 
 #main {
-	width: 90%;
+	width: 50%;
 	margin: 25% auto;
 	border: 1px #FF8D40 solid;
 	background-color: #FFE373;
@@ -13,4 +19,33 @@ body {
 
 #main h1 {
 	text-align: center;
+}
+
+.char1, .char6, .char11, .char14 {
+	font-family: 'Bungee Shade', cursive;
+	color: #052d63;
+	font-size: 175%;
+}
+
+.char2, .char7, .char12, .char15{
+	font-family: 'Oregano', cursive;
+	color: #FF6700;
+
+}
+
+.char3, .char8, .char16{
+	font-family: 'Suwannaphum', cursive;
+	color: #6a93d4;
+	font-size: 175%;
+}
+
+.char4, .char9, .char17 {
+	font-family: 'Codystar', cursive;
+	color: #a64300;
+	font-style: italic;
+}
+
+.char18, .char19, .char20 {
+	font-family: 'Playball', cursive;
+	color: #FFCD00;
 }
